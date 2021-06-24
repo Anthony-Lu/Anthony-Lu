@@ -1,3 +1,2 @@
-- 🔭 4+ years experiences in Java
-- 🌱 Java/Python/Netty/Vert.x/Database/Microservice
+- 🔭 写Java的字符串拼接工人@Beijing
 - 💬 anthony_zz@126.com
