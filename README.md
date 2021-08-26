@@ -1,2 +1,2 @@
-- 🔭 写Java的字符串拼接工人@Beijing
-- 💬 anthony_zz@126.com
+- 写Java的字符串拼接工人@Beijing
+- 邮箱:anthony_zz@126.com
